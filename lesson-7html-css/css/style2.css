@@ -1,0 +1,25 @@
+a:active{
+    color: mediumblue;
+    font-size: 25px;
+}
+
+.main{
+    color: mediumblue;
+}
+.main:visited{
+    color: mediumblue;
+}
+
+.yandex{
+    color: #f70;
+}
+.yandex:visited{
+    color: #f70;
+}
+
+.google{
+    color: #666;
+}
+.google:visited{
+    color: #666;
+}
