@@ -24,7 +24,7 @@ span[class="red"]{
     color: white;
     padding: 3px;
     margin: 10px;
-    line-height: 18px;
+    line-height: 40px;
     border-radius: 8px;
     background-color: red;
 }
@@ -33,7 +33,7 @@ span[class="green"]{
     color: white;
     padding: 3px;
     margin: 10px;
-    line-height: 18px;
+    line-height: 40px;
     border-radius: 8px;
     background-color: green;
 }
@@ -42,7 +42,7 @@ span[class="blue"]{
     color: white;
     padding: 3px;
     margin: 10px;
-    line-height: 18px;
+    line-height: 40px;
     border-radius: 8px;
     background-color: blue;
 }
