@@ -1,0 +1,17 @@
+form{
+    width: 40%;
+    margin: 0px auto;
+}
+.delete_margin{
+    margin: 0px;
+}
+#drop_down_box{
+    height: 2em;
+}
+#drop_down_box option{
+    font-size: 18px;
+}
+textarea{
+    height: 150px;
+    width: 220px;
+}

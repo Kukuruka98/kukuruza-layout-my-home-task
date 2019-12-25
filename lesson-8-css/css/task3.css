@@ -1,0 +1,17 @@
+table{
+    width: 70%;
+    border-collapse: collapse;
+    margin: 20% auto;
+}
+table tr:nth-child(2n){
+    background-color: #DDEBF8;
+}
+table tr td{
+    border-bottom: 2px solid #D1D1CE;
+    height: 40px;
+    font-size: 28px;
+    text-align: center;
+}
+table tr td:nth-child(2n+3){
+    background-color: #F2F2DD;
+}
